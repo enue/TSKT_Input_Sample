@@ -1,0 +1,65 @@
+{
+  "dependencies": {
+    "com.github.enue.tskt_container": "https://github.com/enue/Unity_TSKT_Container.git",
+    "com.github.enue.tskt_input": "https://github.com/enue/Unity_TSKT_Input.git",
+    "com.github.enue.tskt_math": "https://github.com/enue/Unity_TSKT_Math.git",
+    "com.github.enue.tskt_tween": "https://github.com/enue/Unity_TSKT_Tween.git",
+    "com.unity.2d.sprite": "1.0.0",
+    "com.unity.collab-proxy": "1.2.16",
+    "com.unity.ide.rider": "1.1.0",
+    "com.unity.ide.vscode": "1.1.3",
+    "com.unity.test-framework": "1.1.8",
+    "com.unity.textmeshpro": "2.0.1",
+    "com.unity.timeline": "1.2.6",
+    "com.unity.ugui": "1.0.0",
+    "com.unity.modules.ai": "1.0.0",
+    "com.unity.modules.androidjni": "1.0.0",
+    "com.unity.modules.animation": "1.0.0",
+    "com.unity.modules.assetbundle": "1.0.0",
+    "com.unity.modules.audio": "1.0.0",
+    "com.unity.modules.cloth": "1.0.0",
+    "com.unity.modules.director": "1.0.0",
+    "com.unity.modules.imageconversion": "1.0.0",
+    "com.unity.modules.imgui": "1.0.0",
+    "com.unity.modules.jsonserialize": "1.0.0",
+    "com.unity.modules.particlesystem": "1.0.0",
+    "com.unity.modules.physics": "1.0.0",
+    "com.unity.modules.physics2d": "1.0.0",
+    "com.unity.modules.screencapture": "1.0.0",
+    "com.unity.modules.terrain": "1.0.0",
+    "com.unity.modules.terrainphysics": "1.0.0",
+    "com.unity.modules.tilemap": "1.0.0",
+    "com.unity.modules.ui": "1.0.0",
+    "com.unity.modules.uielements": "1.0.0",
+    "com.unity.modules.umbra": "1.0.0",
+    "com.unity.modules.unityanalytics": "1.0.0",
+    "com.unity.modules.unitywebrequest": "1.0.0",
+    "com.unity.modules.unitywebrequestassetbundle": "1.0.0",
+    "com.unity.modules.unitywebrequestaudio": "1.0.0",
+    "com.unity.modules.unitywebrequesttexture": "1.0.0",
+    "com.unity.modules.unitywebrequestwww": "1.0.0",
+    "com.unity.modules.vehicles": "1.0.0",
+    "com.unity.modules.video": "1.0.0",
+    "com.unity.modules.vr": "1.0.0",
+    "com.unity.modules.wind": "1.0.0",
+    "com.unity.modules.xr": "1.0.0"
+  },
+  "lock": {
+    "com.github.enue.tskt_container": {
+      "revision": "HEAD",
+      "hash": "777035cff18b59ed614c530395a9b013129ec2ba"
+    },
+    "com.github.enue.tskt_input": {
+      "revision": "HEAD",
+      "hash": "bd4c3527cda8ac7fd772f3ba2e7374047ced6893"
+    },
+    "com.github.enue.tskt_math": {
+      "revision": "HEAD",
+      "hash": "c7fed65883e102ccb0cf169702baf69196325431"
+    },
+    "com.github.enue.tskt_tween": {
+      "revision": "HEAD",
+      "hash": "950807f2895f530b5f8cc856491c45a22b5fea68"
+    }
+  }
+}

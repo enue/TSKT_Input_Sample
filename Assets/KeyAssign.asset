@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98235239e5170254f910abb925f8acd3, type: 3}
+  m_Name: KeyAssign
+  m_EditorClassIdentifier: 
+  appKeys:
+  - name: Submit
+    keyCode: 122
+  - name: Submit
+    keyCode: 32
+  - name: Cancel
+    keyCode: 120
+  - name: Cancel
+    keyCode: 324
+  appAxes:
+  - name: Horizontal
+    axisName: Horizontal
+  - name: Vertical
+    axisName: Vertical
+  - name: Mouse X
+    axisName: Mouse X
+  - name: Mouse Y
+    axisName: Mouse Y
+  axisButtons: []
